@@ -6,9 +6,10 @@ This project analyzes the New York City taxi dataset using Apache Spark on Googl
 1. Clone the repository
 2. download and install google cloud CLI
 3. In the GCP create a cluster
-4. Upload the data to GCP using CLI
-5. Upload the spark job scripts to GCS
-6. Submit the Spark job to the Dataproc cluster.
+4. setup Bucket for storage
+5. Upload the data to GCP using CLI
+6. Upload the spark job scripts to GCS
+7. Submit the Spark job to the Dataproc cluster.
 
 Spark Jobs:
 
